@@ -1,0 +1,3 @@
+* Readme
+
+This repository contains explorative prototypes of the techniques and parsers presented in the paper [[https://people.cs.nott.ac.uk/pszgmh/monparsing.pdf][Monadic Parser Combinators]] by Graham Hutton and Erik Meijer.
